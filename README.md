@@ -9,4 +9,5 @@ This repository contains all the lecture material explained during the sessions 
 | Session | Date | Title | Jupyter Notebook |
 |---------|----- | -------|-------------|
 | 1. | 22-Nov-2022 | Intro to Python | [Intro](Week_1/Intro.ipynb) |
-| 2. | 24-Nov-2022 | Dataa Types and Input | [Data_Types](Week_1/L1_Data_Type.ipynb) |
+| 2. | 24-Nov-2022 | Data Types and Input | [Data_Types](Week_1/L1_Data_Type.ipynb) |
+| 3. | 26-Nov-2022 | Operators | [Operators](Week_1/Operators.ipynb) |
