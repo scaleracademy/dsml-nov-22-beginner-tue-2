@@ -11,3 +11,4 @@ This repository contains all the lecture material explained during the sessions 
 | 1. | 22-Nov-2022 | Intro to Python | [Intro](Week_1/Intro.ipynb) |
 | 2. | 24-Nov-2022 | Data Types and Input | [Data_Types](Week_1/L1_Data_Type.ipynb) |
 | 3. | 26-Nov-2022 | Operators | [Operators](Week_1/Operators.ipynb) |
+| 4. | 29-Nov-2022 | Control Statements 1 | [Control Statements 1](Week_2/Control_Statements_1.ipynb) |
