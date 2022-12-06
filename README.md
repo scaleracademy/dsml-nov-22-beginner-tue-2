@@ -13,4 +13,5 @@ This repository contains all the lecture material explained during the sessions 
 | 3. | 26-Nov-2022 | Operators | [Operators](Week_1/Operators.ipynb) |
 | 4. | 29-Nov-2022 | Control Statements 1 | [Control Statements 1](Week_2/Control_Statements_1.ipynb) |
 | 5. | 1-Dec-2022 | Control Statements 2 | [Control Statements 2](Week_2/Control_Statements_2.ipynb) |
-| 6. | 3-Dec-2022 | Maths 1 | [Maths 1](Week_2/Maths.ipynb) |
+| 6. | 3-Dec-2022 | Maths 1 | [Maths 1](Week_2/Mathsc.ipynb) |
+| 7. | 6-Dec-2022 | While Loops | [While Loops](Week_3/Iteration_1_While_Loops.ipynb) |
