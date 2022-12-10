@@ -16,3 +16,4 @@ This repository contains all the lecture material explained during the sessions 
 | 6. | 3-Dec-2022 | Maths 1 | [Maths 1](Week_2/Maths.ipynb) |
 | 7. | 6-Dec-2022 | While Loops | [While Loops](Week_3/Iteration_1_While_Loops.ipynb) |
 | 8. | 8-Dec-2022 | For Loops | [For Loops](Week_3/For_Loops.ipynb) |
+| 9. | 10-Dec-2022 | Problem Solving 1  | [Problem Solving 1](Week_3/Problem_Solving_1.ipynb) |
